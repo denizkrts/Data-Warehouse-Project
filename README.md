@@ -1,5 +1,4 @@
 # Data-Warehouse-Project
-Building Data Warehouse Project with SQL Server , including ETL process , data modeling and analytics.
 Hi! This project focuses on building a data warehouse using SQL Server and performing analytics. It covers data processing, modeling, and reporting.
 Project Overview
 In this project:
