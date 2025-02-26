@@ -9,8 +9,6 @@ Data Modeling: Designed a star schema for efficient analytical queries.
 SQL Reporting: Created insights on sales trends, customer behavior, and product performance.
 📂 Repository Structure
 graphql
-Kopyala
-Düzenle
 data-warehouse-project/
 datasets/  Raw data (CSV files)
 docs/ Data flow, data models, and project documentation  
