@@ -12,7 +12,6 @@ datasets/  Raw data (CSV files)
 docs/ Data flow, data models, and project documentation  
 scripts/  SQL scripts for ETL  
 tests/  Data quality and validation  
-README.md  Project description  
-LICENSE  License information  
-Project Goal
-It aims to improve understanding of data warehousing and analytics processes.
+README.md / Project description  
+LICENSE / License information  
+
